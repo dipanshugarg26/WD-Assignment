@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>Welcome to Web Application Lab IIIT Sonepat</title>
+<style>
+h2{ color:red;
+background-color:green;}
+h4{ color:red;
+background-color:blue;}
+</style>
+</head>
+<body>
+<h2>Welcome to the Internet Programming
+<hr>
+<h4>We have provide many Internet related topics
+</body>
+</html>
